@@ -1,0 +1,3 @@
+query to get temperature data in Guarulhos: select * from city_data where city = 'Guarulhos';
+
+query to get temperature data in the world: select * from global_data;
